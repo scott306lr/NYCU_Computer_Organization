@@ -1,1 +1,1 @@
-# computer_organization
+# NYCU_2020_Computer_Organization
